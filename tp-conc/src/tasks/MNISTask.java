@@ -1,4 +1,5 @@
 package tasks;
 
-public class MNISTask {
+public class MNISTask extends Task {
+
 }

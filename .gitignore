@@ -1,0 +1,4 @@
+## Hacer ignore para la carpeta .idea
+.idea/
+## Hacer ignore para la el archivo .iml
+*.iml
